@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pj/rf2o_laser_odometry-ros1/build/devel/setup.sh
